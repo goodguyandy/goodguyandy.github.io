@@ -2,9 +2,9 @@
 layout: single
 author_profile: false
 permalink: /about/
+title: whoami
 ---
 
-## whoami 
 Oh, Hello there! 👋 Happy to see you! 
 
 My name is Andrea and I love to break stuff. I'm a penetration tester and damn curious about the world 🌍
