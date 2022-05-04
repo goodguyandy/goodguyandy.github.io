@@ -9,7 +9,7 @@ Oh, Hello there! 👋 Happy to see you!
 
 My name is Andrea and I love to break stuff. I'm a penetration tester, developer and damn curious about the world 🌍
 
-I'm a perpetual learner and in this blog you will find some of my research, experiments and  notes in the **infosecurity** field.  
+I'm a perpetual learner and in this blog you will find some of my research, experiments, notes and memes in the **infosecurity** field.  
 
 I have some **certifications** under my belt: _OSCP, OSWE,  OSEP , CRTP , CRTE , RTO, eCXD, SLAE32, SLAE64_
 
