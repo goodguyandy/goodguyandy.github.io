@@ -1,11 +1,14 @@
 # main links
 main:
 
-  - title: "2 Minutes"
-  - title: "Projects"
+  - title: "< 5 Minutes"
+    url: /minutes/
+  - title: "Articles"
+    url: /articles/
   - title: "/dev/random"
+    url: /dev/random/
   - title: "About"
-    url: /
+    url: /about/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
