@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 
-# About
-
 Oh, Hello there! 👋 Happy to see you there! 
 
 My name is Andrea and I love to break stuff. I'm a penetration tester and damn curious about the world 🌍
