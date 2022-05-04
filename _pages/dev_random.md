@@ -6,4 +6,4 @@ category: random
 title: random toughts
 ---
 
-The following  posts are just random toughts about the world and they aren't IT releated ☸️
+The following  posts are just random, non-IT toughts about the world ☸️
