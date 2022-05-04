@@ -3,6 +3,6 @@ layout: home
 author_profile: false
 ---
 
-> Feel lost?
+> First time here?
 
-👌[ Start here](/about/)
+👌[ About this blog](/about/)
