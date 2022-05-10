@@ -14,7 +14,7 @@ I'm a perpetual learner and in this blog you will find some of my research, expe
 I have some **certifications** under my belt: 
 
 _From offensive security_:
-*  **OSCP** 
+* **OSCP** 
 * **OSWE**
 * **OSEP**  
   
@@ -27,6 +27,7 @@ _From offensive security_:
 * **SLAE32** 
 * **SLAE64**
 
+I'm currently in the process of getting certified in: _OSED (OSCE^3) , WAPTX, ePTX, Burp certified Professional_
 
 My main area of interests are:
 
