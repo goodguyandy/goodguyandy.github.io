@@ -13,12 +13,12 @@ I'm a perpetual learner and in this blog you will find some of my research, expe
 
 I have some **certifications** under my belt: 
 
-_From Offensive Security_:
+> _From Offensive Security_:
 * **OSCP** 
 * **OSWE**
 * **OSEP**  
   
-_From Ine / Pentester academy / zeropoint security_:
+> _From Ine / Pentester academy / zeropoint security_:
 
 * **CRTP**
 * **CRTE**
@@ -32,9 +32,8 @@ _From Ine / Pentester academy / zeropoint security_:
 My main area of interests are:
 
 *  Appsec
-*  Windows Internals 
-*  _Layer8_ 
-*  Offensive tools development 
+*  _Layer8_ (SE)
+*  Offensive tools development , mostly recon/continuous scanning, Attack surface managment solutions
 *  Red Teaming & Offensive security in general 
 
 
