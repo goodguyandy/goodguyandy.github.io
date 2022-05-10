@@ -34,7 +34,7 @@ My main area of interests are:
 
 *  Appsec
 *  _Layer8_ (SE)
-*  Offensive tools development , mostly recon/continuous scanning, Attack surface managment solutions
+*  Offensive tools development , mostly tools for automatic recon,scanning and attack surface management
 *  Red Teaming & Offensive security in general 
 
 
