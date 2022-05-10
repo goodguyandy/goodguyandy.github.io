@@ -14,6 +14,7 @@ I'm a perpetual learner and in this blog you will find some of my research, expe
 I have some **certifications** under my belt: 
 
 > _From Offensive Security_:
+
 * **OSCP** 
 * **OSWE**
 * **OSEP**  
