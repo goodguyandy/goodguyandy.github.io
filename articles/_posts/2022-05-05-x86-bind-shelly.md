@@ -4,8 +4,7 @@ title:  "Bind Shellcode written  for x86 in nasm"
 
 
 During SLAE32/SLAE64, I had a lot of fun writing x86 and x64 shellcode in NASM. 
-Sadly, I lost all the blog post, but I kept the code.
-
+In this post I will share my code of an x86 bind shell (linux), and some utilities to deploy shellcodes quicker.
 -----
 
 _NOTE_: If you prefer, you can clone the repos here:
