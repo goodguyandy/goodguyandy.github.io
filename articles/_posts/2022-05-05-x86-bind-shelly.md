@@ -14,7 +14,7 @@ _NOTE_: If you prefer, you can clone the repos here:
 
 ------
 
-# bind shell source code
+## bind shell source code - NASM
 
 ```nasm
 global _start
@@ -211,10 +211,8 @@ def str2bytes(s):
 
 
 ```
-## bind shell
 
-
-### c source for reference
+## c source for reference
 
 ```c
 
@@ -252,7 +250,7 @@ int main() {
 
 
 
-### set up quickly of the generated shellcode (example)
+## change port of the bind shellcode without recompiling
 
 
 ```python
