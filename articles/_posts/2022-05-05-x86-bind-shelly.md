@@ -9,8 +9,8 @@ In this post I will share my code of an x86 bind shell (linux), and some utiliti
 
 _NOTE_: If you prefer, you can clone the repos here:
 
-1. [https://github.com/goodguyandy/slae32](slae32)
-2. [https://github.com/goodguyandy/slae64](slae64)
+1. [my linux x86 shellcode collection](https://github.com/goodguyandy/slae32)
+2. [my linux x64 shellcode collection](https://github.com/goodguyandy/slae64)
 
 ------
 

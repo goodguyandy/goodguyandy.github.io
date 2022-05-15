@@ -2,7 +2,7 @@
 title:  "Linux x86 one byte self bruteforcing shellcoder encoder/decoder"
 ---
 
-I was looking from my old code and I found a shellcode encoder experiment I did some years ago. 
+I was looking  my old code and I found a shellcode encoder experiment I did some years ago. 
 
 
 Basically, the encoder takes as input a shellcode, add a NOP opcode (0x90) in front of it, parses it's bytes and generate a set of bytes not used by the shellcode, then it picks one at random. Every shellcode's bytes is the xorred with this key.
