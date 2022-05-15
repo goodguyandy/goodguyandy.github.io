@@ -1,13 +1,14 @@
 ---
 title:  "Make Reports Great Again - a tool to write quick and beautiful pentest reports"
 ---
-# To be written
-
 A wise guy in Discord once said "a pentester is good as his report". I agree. 
 
 I'm a big beliver that a good report make all the difference in a good or bad pentest. 
 
 So I decided to write a tool to assist the creation of reports. 
+
+![](/assets/images/2022-05-15-20-44-53.png)
+
 
 Make Reports great again is usefull when:
 
@@ -52,6 +53,7 @@ For example, on the "project_general_report.html" file you can add your company 
 
 # installation 
 
+[github repo](https://github.com/goodguyandy/make_reports_great_again)
 clone the repo and run ./install.sh and follow the instruction on screen to create the superuser. 
 
 Then, launch ./run.sh to start the server on localhost:9000 (again, do not use in production!)
